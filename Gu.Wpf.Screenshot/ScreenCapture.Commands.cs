@@ -3,7 +3,6 @@ namespace Gu.Wpf.Screenshot
     using System;
     using System.Diagnostics;
     using System.IO;
-    using System.Linq;
     using System.Windows.Input;
 
     public static partial class ScreenCapture
